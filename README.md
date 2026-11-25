@@ -2,7 +2,7 @@
 
 Strategy & Operations at Uber · Co-founder & COO at [Ingenium Engineering](https://ingenium-eng.com) · Washington, DC
 
-I build AI tools, internal apps, and data workflows that turn recurring operational bottlenecks into self-serve systems. Most of my day-to-day code lives in private and client repositories — the pinned projects here are public builds and open-source templates extracted from that work.
+I try to build AI tools, internal apps, and data workflows that turn recurring operational bottlenecks into self-serve systems. I'm optimizing to reduce user friction and improve output. 
 
 #### What I build
 - **AI agents & grounded search** — deterministic domain-ontology + tool-calling RAG apps, read-only sourced-answer Slack assistants, and MCP self-serve layers
